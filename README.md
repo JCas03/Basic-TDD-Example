@@ -1,2 +1,2 @@
 # Basic-TDD-Example
-TDD example using a calculator and a Hash Map list 
+TDD example with a calculator example and a Hash Map list example
